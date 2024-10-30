@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @hoodshark
+- 👀 I’m interested in learning, helping and getting help from/to others
+- 🌱 I’m currently learning Python and other code as I go
+- 💞️ I’m looking to collaborate on my project on my discord bot
+- 📫 How to reach me through a discord server link - [https://discord.gg/u4bFKSmGp3]
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: A+ student. I take pride in it.
